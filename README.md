@@ -79,9 +79,13 @@ This project demonstrates the application of software engineering principles thr
 - UML Specification and Object-Oriented Design Principles
 - Modelio Documentation
 
-### **Group members**           **ID number**
-1.Abenezer Tekalign       NSR/1115/16 
-2.Nathan Kaleb            NSR/T/011/16 
-3.Kaleb Hailu             NSR/531/16
-4.Abenezer Amenu          NSR/T/006/16 
-5.Bernabas Derese         NSR/166/16
+### Project Team Name and  ID Number
+1.Abenezer Tekalign............NSR/1115/16 
+
+2.Nathan Kaleb................NSR/T/011/16
+
+3.Kaleb Hailu..................NSR/531/16
+
+4.Abenezer Amenu.............NSR/T/006/16 
+
+5.Bernabas Derese.............NSR/166/16
