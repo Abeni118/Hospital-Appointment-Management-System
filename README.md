@@ -46,7 +46,7 @@ The project began with system understanding using requirement engineering concep
 ## System Structure Identification
 
 The system is structured around core entities such as Hospital, User, Appointment, and Booking. Specialized users (Patient, Doctor, Nurse, Admin) inherit from the User class, while authorization is handled through Role and Permission classes.
-
+ ![screenshot](Hospital Appointment mangment system/class diagram.jpg)
 ## System Behavior Identification
 
 System behavior includes appointment booking, approval workflows, role-based access control, and interaction among hospital staff.
