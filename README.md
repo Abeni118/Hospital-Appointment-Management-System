@@ -39,3 +39,42 @@ The project follows a model-driven, object-oriented development approach. The sy
 - Draw.io: Used for use case, sequence, and activity diagrams due to its flexibility and ease of use for professional-looking diagrams.
 - Java: Selected as the implementation language for code generation because of its robust object-oriented support and widespread use.
 - Hardware: Standard personal computer capable of running Java and modeling tools.
+## Project Initiation and System Understanding
+
+The project began with system understanding using requirement engineering concepts. The hospital environment was analyzed to identify key actors, entities, and workflows.
+
+## System Structure Identification
+
+The system is structured around core entities such as Hospital, User, Appointment, and Booking. Specialized users (Patient, Doctor, Nurse, Admin) inherit from the User class, while authorization is handled through Role and Permission classes.
+
+## System Behavior Identification
+
+System behavior includes appointment booking, approval workflows, role-based access control, and interaction among hospital staff.
+
+## Object-Oriented Analysis
+
+Object orientation was applied to identify classes, attributes, methods, and relationships. Inheritance, associations, and encapsulation were carefully used to reflect real-world hospital operations.
+
+## System Modeling
+
+The system is modeled using UML diagrams to represent different perspectives:
+
+- Use Case Diagram: Shows interactions between actors and the system.
+- Class Diagram: Represents the static structure of the system and relationships among classes.
+- Sequence Diagram: Illustrates interaction flow for key scenarios such as appointment booking and approval.
+- Activity Diagram: Describes workflow of major system processes.
+- These models ensure a complete and well-understood system before any code generation.
+
+## Code Generation
+
+Based on the finalized class diagram, initial Java code was generated using the Java Designer module in Modelio. The generated code includes class definitions, attributes, method signatures, and inheritance relationships. Only structural aspects are covered, and method bodies are intentionally left with minimal or placeholder implementations, as the focus of the project is modeling rather than full development.
+
+## Conclusion
+
+This project demonstrates the application of software engineering principles through systematic analysis, modeling, and structural code generation. By focusing on UML-based design and object-oriented concepts, the Hospital Appointment Management System provides a clear and well-organized representation of hospital operations suitable for academic evaluation.
+
+## References
+
+- Software Engineering Tools & Practices – Group Project Submission Guideline
+- UML Specification and Object-Oriented Design Principles
+- Modelio Documentation
