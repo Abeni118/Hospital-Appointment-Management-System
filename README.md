@@ -59,11 +59,11 @@ Object orientation was applied to identify classes, attributes, methods, and rel
 
 The system is modeled using UML diagrams to represent different perspectives:
 
-- Use Case Diagram: Shows interactions between actors and the system.
-- Class Diagram: Represents the static structure of the system and relationships among classes.
-- Sequence Diagram: Illustrates interaction flow for key scenarios such as appointment booking and approval.
-- Activity Diagram: Describes workflow of major system processes.
-- These models ensure a complete and well-understood system before any code generation.
+- **Use Case Diagram**: Shows interactions between actors and the system.
+- **Class Diagram**: Represents the static structure of the system and relationships among classes.
+- **Sequence Diagram**: Illustrates interaction flow for key scenarios such as appointment booking and approval.
+- **Activity Diagram**: Describes workflow of major system processes.
+These models ensure a complete and well-understood system before any code generation.
 
 ## Code Generation
 
@@ -78,3 +78,10 @@ This project demonstrates the application of software engineering principles thr
 - Software Engineering Tools & Practices – Group Project Submission Guideline
 - UML Specification and Object-Oriented Design Principles
 - Modelio Documentation
+
+### **Group members**           **ID number**
+1.Abenezer Tekalign       NSR/1115/16 
+2.Nathan Kaleb            NSR/T/011/16 
+3.Kaleb Hailu             NSR/531/16
+4.Abenezer Amenu          NSR/T/006/16 
+5.Bernabas Derese         NSR/166/16
